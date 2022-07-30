@@ -1,6 +1,7 @@
 ```
 This is my Video Calling App developed using Flutter and VideoSDK.
 
+![](https://github.com/surajkd786/Video-Calling-App/blob/main/assets/VIDEO_APP_GIF.gif)
 
 Features : -
         1. Multiple people can join the meeting.
