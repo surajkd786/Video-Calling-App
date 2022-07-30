@@ -1,7 +1,7 @@
 ```
 This is my Video Calling App developed using Flutter and VideoSDK.
 
-![](https://github.com/surajkd786/Video-Calling-App/blob/main/VIDEO_APP_GIF.gif)
+![](https://github.com/surajkd786/Video-Calling-App/blob/main/Android%20Emulator%20-%20Pixel_XL_API_26_5554%2030-07-2022%2019_01_54.png)
 
 
 Features : -
