@@ -7,5 +7,5 @@ Features : -
         4. Manage the Resolution
         5. audio and video mute.
         
- Future Work: Live straemming
+ Future Work: Live streamming
 ![](https://github.com/surajkd786/Video-Calling-App/blob/main/VIDEO_APP_GIF.gif)
