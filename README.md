@@ -1,6 +1,7 @@
 # Video-Calling-App
 
-This is the video-calling app developed in flutter and videoSDK
+*This is the video-calling app developed in flutter and videoSDK*
+```
 Features : -
         1. Multiple people can join the meeting.
         2. Screen can be recorded.
@@ -9,6 +10,7 @@ Features : -
         5. audio and video mute.
         
  Future Work: Live streamming
- DEMO VIDEO
+ ```
+ *DEMO VIDEO*
  
 ![](https://github.com/surajkd786/Video-Calling-App/blob/main/novus.gif.gif)
