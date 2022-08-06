@@ -11,4 +11,4 @@ Features : -
  Future Work: Live streamming
  DEMO VIDEO
  
-![](https://github.com/surajkd786/Video-Calling-App/blob/main/VIDEO_APP_GIF.gif)
+![](https://github.com/surajkd786/Video-Calling-App/blob/main/novus.gif.gif)
